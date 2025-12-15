@@ -205,3 +205,8 @@ https://example.com
 
 This project demonstrates a **complete, working RAG pipeline** with crawling, embeddings, retrieval, and REST APIs.  
 It is designed to be **simple, extensible, and interview-ready**.
+
+
+## Submission Note
+
+This pull request is created for assignment submission and review.
